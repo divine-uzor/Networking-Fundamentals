@@ -2,7 +2,7 @@
 
 A structured collection of networking notes, guides and resources built as part of an ongoing cloud computing learning journey. This repository is focused on making foundational networking concepts clear, practical and easy to reference.
 
----
+
 
 ## Contents
 
@@ -10,7 +10,7 @@ A structured collection of networking notes, guides and resources built as part 
 |------|-------------|
 | [DNS Beginner Guide](./DNS%20Beginner%20guide.pdf) | A comprehensive illustrated guide to the Domain Name System covering DNS records, the lookup process, hierarchy, caching and security |
 
----
+
 
 ## Topics Covered
 
@@ -23,7 +23,7 @@ A structured collection of networking notes, guides and resources built as part 
 - DNS caching and TTL
 - DNS security: spoofing, hijacking, DNSSEC and trusted resolvers
 
----
+
 
 ## About This Repository
 
@@ -31,12 +31,12 @@ This repository is part of a broader effort to document and share cloud and netw
 
 More topics will be added over time including subnetting, routing, load balancing, VPNs and cloud networking concepts on AWS and Azure.
 
----
+
 
 ## Connect
 
 If you find any of this useful or have suggestions, feel free to open an issue or connect on [LinkedIn](https://www.linkedin.com/in/divine-uzor).
 
----
+
 
 *Learning in public. Building in the open.*# Networking-Fundamentals
