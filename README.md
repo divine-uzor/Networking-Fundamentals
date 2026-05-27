@@ -6,9 +6,9 @@ A structured collection of networking notes, guides and resources built as part 
 |------|-------------|
 | [DNS Beginner Guide](./DNS%20Beginner%20guide.pdf) | A comprehensive illustrated guide to the Domain Name System covering DNS records, the lookup process, hierarchy, caching and security |
 | [Computer Networks Guide](./Computer_networks_guide.pdf) | A beginner's complete guide to computer networks covering network types, devices, topologies, wired vs wireless, terminology, packet switching and an introduction to the OSI model |
-| [IP Addressing](./IP_ADDRESSING.pdf) | Full coverage of IPv4 and IPv6 structure, address classes, private ranges, subnet masks, CIDR notation, subnetting, NAT, and IP addressing in Azure |
-| [The Binary Number System](./The_Binary_Number_System.pdf) | A focused guide to binary arithmetic as it applies to IP addressing, including decimal to binary conversion, octet place values, address classification and quick identification hacks |
-| [The OSI Model](./THE_OSI_MODEL.pdf) | A complete guide to all seven OSI layers covering protocols, port numbers, TCP vs UDP, encapsulation, troubleshooting methodology and where Azure services map to each layer |
+| [IP Addressing](./IP%20ADDRESSING.pdf) | Full coverage of IPv4 and IPv6 structure, address classes, private ranges, subnet masks, CIDR notation, subnetting, NAT and IP addressing in Azure |
+| [The Binary Number System](./The%20Binary%20Number%20System.pdf) | A focused guide to binary arithmetic as it applies to IP addressing, including decimal to binary conversion, octet place values, address classification and quick identification hacks |
+| [The OSI Model](./THE%20OSI%20MODEL.pdf) | A complete guide to all seven OSI layers covering protocols, port numbers, TCP vs UDP, encapsulation, troubleshooting methodology and where Azure services map to each layer |
 
 ## Topics Covered
 
